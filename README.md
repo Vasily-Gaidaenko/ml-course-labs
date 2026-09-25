@@ -15,4 +15,4 @@
 - **Результат**: улучшенная сеть (AveragePooling, Adam) устойчивее к сдвигу, чем базовая с аугментацией.
 
 - ## Стек
-Python, numpy, pandas, scikit-learn, Keras/TensorFlow, matplotlib, seaborn.
+Python, numpy, pandas, scikit-learn, Keras/TensorFlow, matplotlib
